@@ -1,0 +1,348 @@
+short_indicator,dimension,theme,sub_theme,monitor
+Population growth,Social capital,Population,Demographics,Staat van de Stad
+Migration cause,Social capital,Population,Demographics,Staat van de Stad
+Mortality,Social capital,Population,Demographics,Staat van de Stad
+Migration background,Social capital,Population,Demographics,Staat van de Stad
+Population age,Social capital,Population,Demographics,Staat van de Stad
+Migration,Social capital,Population,Demographics,Staat van de Stad
+Level education,Social capital,Population,Demographics,Staat van de Stad
+Sex,Social capital,Population,Demographics,Staat van de Stad
+Income level,Quality of life,Consumption and income,Distribution-Income- Total,Staat van de Stad
+Main occupation,Quality of life,Labour,Distribution-Labour-,Staat van de Stad
+Housing stock,Quality of life,Housing,Housing stock,Staat van de Stad
+Contruction type,Quality of life,Housing,Housing stock,Staat van de Stad
+Housing market type,Quality of life,Housing,Housing stock,Staat van de Stad
+Housing rental prices,Quality of life,Housing,Housing affordability,Staat van de Stad
+Housing price,Quality of life,Housing,Housing affordability,Staat van de Stad
+Satisfaction home,Quality of life,Housing,Subjective,Staat van de Stad
+Household composition,Social capital,Population,Demographics,Staat van de Stad
+House size satisfaction,Quality of life,Housing,Quality of housing,Staat van de Stad
+Energy efficient,Quality of life,Housing,Quality of housing,Staat van de Stad
+Number solar panels,Quality of life,Housing,Quality of housing,Staat van de Stad
+Willing invest sustainability,Quality of life,Housing,Housing affordability,Staat van de Stad
+Energy cost,Quality of life,Housing,Housing affordability,Staat van de Stad
+Energy poverty,Quality of life,Housing,Housing affordability,Staat van de Stad
+Satisfaction neighborhood ,Quality of life,Housing,Subjective,Staat van de Stad
+Digital resources availability,Economic capital,Physical Capital,Capital stock,Staat van de Stad
+Happiness,Quality of life,Subjective well being,Happiness,Staat van de Stad
+Life satis--Overall,Quality of life,Subjective well being,Life satisfaction,Staat van de Stad
+Life satis--Friends,Quality of life,Subjective well being,Life satisfaction,Staat van de Stad
+Life satis-education,Quality of life,Subjective well being,Life satisfaction,Staat van de Stad
+Life satis-housing situation,Quality of life,Subjective well being,Life satisfaction,Staat van de Stad
+Life satis-social position,Quality of life,Subjective well being,Life satisfaction,Staat van de Stad
+Life satis-Dutch society,Quality of life,Subjective well being,Life satisfaction,Staat van de Stad
+Life satis-Ams. society,Quality of life,Subjective well being,Life satisfaction,Staat van de Stad
+Life satis-financial resources,Quality of life,Subjective well being,Life satisfaction,Staat van de Stad
+Life satis-Care arranged city,Quality of life,Subjective well being,Life satisfaction,Staat van de Stad
+Life satis-Ams. Admin.,Quality of life,Subjective well being,Life satisfaction,Staat van de Stad
+Life satis-government,Quality of life,Subjective well being,Life satisfaction,Staat van de Stad
+Living  House ownership ,Quality of life,Housing,Housing stock,Staat van de Stad
+Living  House type,Quality of life,Housing,Quality of housing,Staat van de Stad
+Living  Number rooms,Quality of life,Housing,Quality of housing,Staat van de Stad
+Living  Living room area,Quality of life,Housing,Quality of housing,Staat van de Stad
+Health Perceived obstacles,Quality of life,Health,Healthy life expectancy,Staat van de Stad
+Household appliances,Quality of life,Consumption and income,Consumption,Staat van de Stad
+Hobby items,Quality of life,Consumption and income,Consumption,Staat van de Stad
+Leisure Hobbies,Quality of life,Leisure,Cultural,Staat van de Stad
+Leisure Entertainment,Quality of life,Leisure,Cultural,Staat van de Stad
+Leisure Associations,Quality of life,Leisure,Cultural,Staat van de Stad
+Car ownership,Quality of life,Mobility,Transport,Staat van de Stad
+Own NS card,Quality of life,Mobility,Transport,Staat van de Stad
+Volunteering,Social capital,Trust,Voluntary work,Staat van de Stad
+Social isolation,Social capital,Trust,Bridging social capital,Staat van de Stad
+Sports weekly,Quality of life,Leisure,Cultural,Staat van de Stad
+Sports activities,Quality of life,Leisure,Cultural,Staat van de Stad
+Holidays num.,Quality of life,Leisure,Time use,Staat van de Stad
+Holidays abroad,Quality of life,Leisure,Time use,Staat van de Stad
+Economic growth ,Economic capital,Consumption and income,Gross Domestic Product,Staat van de Stad
+Active establishments,Human capital,Labour,Distribution-Labour-,Staat van de Stad
+Employed persons,Quality of life,Labour,Employment rate,Staat van de Stad
+TOZO,Economic capital,Financial capital,Deficit/Surplus,Staat van de Stad
+sustainable jobs rate,Quality of life,Labour,Distribution-Labour-,Staat van de Stad
+Sustainable jobs,Economic capital,Energy resources,Renewable energy,Staat van de Stad
+Co2 Emissions,Natural capital,Climate,GHG emissions,Staat van de Stad
+Sustainable energy,Natural capital,Energy resources,Renewable energy,Staat van de Stad
+Installed solar panels,Natural capital,Energy resources,Renewable energy,Staat van de Stad
+Installed wind turbines,Natural capital,Energy resources,Renewable energy,Staat van de Stad
+Housing natural-gas free,Natural capital,Energy resources,Renewable energy,Staat van de Stad
+Cons. Raw Chemicals,Natural capital,Non-energy resources,Consumption,Staat van de Stad
+Cons. raw fertilizers,Natural capital,Non-energy resources,Consumption,Staat van de Stad
+Raw minerals build materials,Natural capital,Non-energy resources,Consumption,Staat van de Stad
+Raw metals semi-finished prod.,Natural capital,Non-energy resources,Consumption,Staat van de Stad
+Raw metal residues,Natural capital,Non-energy resources,Consumption,Staat van de Stad
+Raw petroleum products,Natural capital,Non-energy resources,Consumption,Staat van de Stad
+Raw solid mineral fuels,Natural capital,Non-energy resources,Consumption,Staat van de Stad
+Raw food - animal feed,Natural capital,Non-energy resources,Consumption,Staat van de Stad
+Raw agricultural products,Natural capital,Non-energy resources,Consumption,Staat van de Stad
+Household waste,Natural capital,Non-energy resources,Waste,Staat van de Stad
+Waste method,Natural capital,Non-energy resources,Waste,Staat van de Stad
+Green built-up areas,Natural capital,Land and ecosystems,Species/Ecosystems,Staat van de Stad
+Green roofs,Natural capital,Land and ecosystems,Species/Ecosystems,Staat van de Stad
+Temperature,Natural capital,Climate,State of the climate,Staat van de Stad
+Groundwater,Natural capital,Water,Abstraction,Staat van de Stad
+Flora and Fauna ,Natural capital,Land and ecosystems,Species/Ecosystems,Staat van de Stad
+Transport means,Quality of life,Mobility,Transport,Staat van de Stad
+Daily trips,Quality of life,Mobility,Transport,Staat van de Stad
+Number  mopeds,Quality of life,Mobility,Transport,Staat van de Stad
+Public transport,Quality of life,Mobility,Transport,Staat van de Stad
+Bicycle use,Quality of life,Mobility,Transport,Staat van de Stad
+Bike parking perc.,Quality of life,Mobility,Transport,Staat van de Stad
+Bike parking capacity ,Quality of life,Mobility,Transport,Staat van de Stad
+Materials transport Energy,Natural capital,Non-energy resources,Consumption,Staat van de Stad
+Materials transport-Non-Energy,Natural capital,Energy resources,Consumption,Staat van de Stad
+Perceived health,Quality of life,Health,Healthy life expectancy,Staat van de Stad
+Long-term illness,Quality of life,Health,Healthy life expectancy,Staat van de Stad
+Numbers COVID-19,Quality of life,Health,Healthy life expectancy,Staat van de Stad
+Adults COVID-19,Quality of life,Health,Healthy life expectancy,Staat van de Stad
+Hospital COVID-19,Quality of life,Health,Healthy life expectancy,Staat van de Stad
+Adults antibodies,Quality of life,Health,Healthy life expectancy,Staat van de Stad
+Deaths COVID-19,Quality of life,Health,Healthy life expectancy,Staat van de Stad
+Corona Vaccine Pop.,Quality of life,Health,Healthy life expectancy,Staat van de Stad
+satisfaction life,Quality of life,Subjective well being,Life satisfaction,Brede Welvaart
+satisfaction  leisure time ,Quality of life,Leisure,Time use,Brede Welvaart
+Disposable income,Quality of life,Consumption and income,Distribution-Income- Total,Brede Welvaart
+GDP,Economic capital,Consumption and income,Gross Domestic Product,Brede Welvaart
+obesity ,Quality of life,Nutrition,Obesity,Brede Welvaart
+perceived health,Quality of life,Health,Healthy life expectancy,Brede Welvaart
+long-term health prob.,Quality of life,Health,Healthy life expectancy,Brede Welvaart
+Life expectancy men,Quality of life,Health,Life expectancy,Brede Welvaart
+Life expectancy women,Quality of life,Health,Life expectancy,Brede Welvaart
+Net employment,Quality of life,Labour,Employment rate,Brede Welvaart
+Gross labour participation,Quality of life,Labour,Distribution-Labour-,Brede Welvaart
+Highly educated pop.,Quality of life,Education,Educational attainment,Brede Welvaart
+unemployment,Quality of life,Labour,Employment rate,Brede Welvaart
+Satis travel work,Quality of life,Labour,Subjective,Brede Welvaart
+Satis. living env.,Quality of life,Subjective well being,Life satisfaction,Brede Welvaart
+Satis.home ,Quality of life,Housing,Subjective,Brede Welvaart
+Sports dist.,Quality of life,Leisure,Cultural,Brede Welvaart
+School dist.,Quality of life,Education,Distribution-Education,Brede Welvaart
+Café dist.,Quality of life,Leisure,Cultural,Brede Welvaart
+Contact people,Quality of life,Trust,Family/Friends,Brede Welvaart
+trust institutions ,Quality of life,Institutions,Trust in institutions,Brede Welvaart
+trust others ,Quality of life,Trust,Generalised trust,Brede Welvaart
+voluntary work ,Quality of life,Trust,Voluntary work,Brede Welvaart
+often feel unsafe,Quality of life,Physical safety,Crime,Brede Welvaart
+Crimes experienced,Quality of life,Physical safety,Crime,Brede Welvaart
+registered crimes,Quality of life,Physical safety,Crime,Brede Welvaart
+natural area pc,Natural capital,Land and ecosystems,Protected areas,Brede Welvaart
+Particulate matter air,Natural capital,Air quality,Emissions of particulate matter,Brede Welvaart
+public green space dist,Quality of life,Land and Ecosystems,Species/Ecosystems,Brede Welvaart
+nature and forest areas2,Natural capital,Land and ecosystems,Land,Brede Welvaart
+GHG per capita,Natural capital,Climate,GHG emissions,Brede Welvaart
+Quality inland bathing water,Natural capital,Water,Water quality,Brede Welvaart
+Debt per household,Economic capital,Financial capital,Net assets/liabilities,Brede Welvaart
+Household wealth,Quality of life,Consumption and income,Distribution-Income- Total,Brede Welvaart
+Solar energy,Natural capital,Energy resources,Renewable energy,Brede Welvaart
+nature forest areas,Natural capital,Land and ecosystems,Land,Brede Welvaart
+built-up area,Natural capital,Land and ecosystems,Land,Brede Welvaart
+Weekly work hours,Human capital,Labour,Hours worked,Brede Welvaart
+Higly educated,Human capital,Education,Educational attainment,Brede Welvaart
+Social cohesion,Social capital,Trust,Bridging social capital,Brede Welvaart
+DMI,Economic capital,Non-energy resources,Resources,Amsterdam Circular Monitor
+DMC,Economic capital,Non-energy resources,Resources,Amsterdam Circular Monitor
+Ground Fulfillment,Economic capital,Non-energy resources,Resources,Amsterdam Circular Monitor
+RMI,Economic capital,Non-energy resources,Resources,Amsterdam Circular Monitor
+RMC,Economic capital,Non-energy resources,Resources,Amsterdam Circular Monitor
+Waste generated,Natural capital,Non-energy resources,Resources,Amsterdam Circular Monitor
+Share recycling,Natural capital,Non-energy resources,Resources,Amsterdam Circular Monitor
+Share unknown,Natural capital,Non-energy resources,Resources,Amsterdam Circular Monitor
+Waste treated,Economic capital,Non-energy resources,Resources,Amsterdam Circular Monitor
+Raw material loss,Natural capital,Non-energy resources,Resources,Amsterdam Circular Monitor
+MKI,Economic capital,Monetary aggregates,Natural capital,Amsterdam Circular Monitor
+Overweight,Quality of life,Nutrition,Obesity,Stadsdonut
+Depression Anxiety,Quality of life,Health,Mental health,Stadsdonut
+Social rent,Quality of life,Housing,Housing stock,Stadsdonut
+Social housing reg.,Quality of life,Housing,Housing stock,Stadsdonut
+Tap water quality,Quality of life,Water,Water quality,Stadsdonut
+Food bank usage,Quality of life,Consumption and income,Distribution-Income- Total,Stadsdonut
+Access internet,Economic capital,Physical Capital,Capital stock,Stadsdonut
+Loneliness,Social capital,Trust,Family/Friends,Stadsdonut
+Social connection,Quality of life,Trust,Generalised trust,Stadsdonut
+Neigh.rating,Quality of life,Trust,Generalised trust,Stadsdonut
+Trips bicyle,Quality of life,Mobility,Transport,Stadsdonut
+Public transport,Quality of life,Mobility,Transport,Stadsdonut
+Culture children,Quality of life,Leisure,Time use,Stadsdonut
+Business friendliness,Economic capital,Financial capital,Foreign direct investment,Stadsdonut
+Social assistance entitled,Quality of life,Institutions,Global social capital,Stadsdonut
+Vacancies teaching school,Quality of life,Education,Distribution-Education,Stadsdonut
+Planned gas free neigh.,Natural capital,Energy resources,Renewable energy,Stadsdonut
+Gas free housing,Economic capital,Energy resources,Renewable energy,Stadsdonut
+Victim crime,Quality of life,Physical safety,Crime,Stadsdonut
+Domestic Violence,Quality of life,Physical safety,Crime,Stadsdonut
+Low income no control life,Quality of life,Subjective well being,Life satisfaction,Stadsdonut
+Turnout  municipal,Social capital,Institutions,Voter turnout,Stadsdonut
+Turnout parliamentary,Social capital,Institutions,Voter turnout,Stadsdonut
+Experienced racism,Social capital,Trust,Bridging social capital,Stadsdonut
+Discrimination ethnicity,Social capital,Trust,Bridging social capital,Stadsdonut
+Discriminationality,Social capital,Trust,Bridging social capital,Stadsdonut
+Water supply,Natural capital,Water,Resources,Stadsdonut
+Water carbon storage,Natural capital,Climate,Historical CO2- emissions,Stadsdonut
+Land erosion protection,Natural capital,Land and ecosystems,Land,Stadsdonut
+Land support biodiversity,Natural capital,Land and ecosystems,Species/Ecosystems,Stadsdonut
+Land energy generation,Economic capital,Energy resources,Renewable energy,Stadsdonut
+Air quality regulation,Quality of life,Health,Life expectancy,Stadsdonut
+Urban island effect,Natural capital,Climate,State of the climate,Stadsdonut
+Air Climate change,Natural capital,Climate,GHG emissions,Stadsdonut
+Air pollution,Natural capital,Air quality,Particulate matter concentration,Stadsdonut
+Non-recyclable waste,Natural capital,Non-energy resources,Waste,Stadsdonut
+Agriculture footprint,Natural capital,Land and ecosystems,Footprint,Stadsdonut
+Forestry footprint,Natural capital,Land and ecosystems,Footprint,Stadsdonut
+Livestock footprint,Natural capital,Land and ecosystems,Footprint,Stadsdonut
+Water Excessive fertilisers,Natural capital,Water,Emissions to water,Stadsdonut
+Water Fresh abstraction,Natural capital,Water,Abstraction,Stadsdonut
+Water Overfishing,Natural capital,Land and ecosystems,Species/Ecosystems,Stadsdonut
+Employment rate,Quality of life,Labour,Employment rate,EVMRA
+Hours worked,Quality of life,Labour,Hours worked,EVMRA
+Unemployment rate,Human capital,Labour,Employment rate,EVMRA
+Gross employment,Quality of life,Labour,Employment rate,EVMRA
+GDP,Economic capital,Consumption and income,Gross Domestic Product,EVMRA
+Added value,Economic capital,Consumption and income,Gross Domestic Product,EVMRA
+Labor force persons,Quality of life,Labour,Employment rate,EVMRA
+Labor force employees,Quality of life,Labour,Employment rate,EVMRA
+Population,Social capital,Population,Demographics,EVMRA
+Labor force potential,Human capital,Labour,Distribution-Labour-,EVMRA
+Labor force people,Human capital,Labour,Distribution-Labour-,EVMRA
+Labor force age,Human capital,Labour,Distribution-Labour-,EVMRA
+Inactive population,Human capital,Labour,Distribution-Labour-,EVMRA
+Dependent pop.,Social capital,Population,People,EVMRA
+Unemployment labor force,Human capital,Labour,Distribution-Labour-,EVMRA
+Birth,Social capital,Population,Demographics,EVMRA
+Mortality,Social capital,Population,Demographics,EVMRA
+Natural attrition,Human capital,Labour,Employment rate,EVMRA
+Immigration,Social capital,Population,Demographics,EVMRA
+Emigration,Social capital,Population,Demographics,EVMRA
+Foreign migration,Social capital,Population,Demographics,EVMRA
+Domestic Immigration,Social capital,Population,Demographics,EVMRA
+Domestic emigration,Social capital,Population,Demographics,EVMRA
+Domestic migration,Social capital,Population,Demographics,EVMRA
+Consumer confidence,Economic capital,Consumption and income,Consumption,EVMRA
+inbound-outbound commute,Quality of life,Mobility,Transport,EVMRA
+Specialization index,Economic capital,Monetary aggregates,Economic capital,EVMRA
+Labor productivity,Economic capital,Consumption and income,Productivity,EVMRA
+Land use,Natural capital,Land and ecosystems,Land,EVMRA
+House selling time,Quality of life,Housing,Housing affordability,EVMRA
+Properties sold,Quality of life,Housing,Housing stock,EVMRA
+Housing stock,Quality of life,Housing,Housing stock,EVMRA
+Social house stock,Quality of life,Housing,Housing stock,EVMRA
+Liberalized housing,Quality of life,Housing,Housing stock,EVMRA
+Social house wating time,Quality of life,Housing,Housing stock,EVMRA
+Rental prices,Quality of life,Housing,Housing affordability,EVMRA
+Vacant offices,Economic capital,Physical Capital,Capital stock,EVMRA
+CO2 emissions,Natural capital,Climate,GHG emissions,EVMRA
+Energy consumption,Economic capital,Energy resources,Consumption,EVMRA
+Renewable energy,Natural capital,Energy resources,Renewable energy,EVMRA
+Household residual waste,Natural capital,Non-energy resources,Waste,EVMRA
+Passengers Schipol,Quality of life,Mobility,Transport,EVMRA
+Flights per year,Quality of life,Mobility,Transport,EVMRA
+Schipol land take,Natural capital,Land and ecosystems,Footprint,EVMRA
+CO2 aviation GHG,Natural capital,Climate,GHG emissions,EVMRA
+Noise pollution,Quality of life,Health,Healthy life expectancy,EVMRA
+Ships visits,Economic capital,Non-energy resources,Intensity/Productivity,EVMRA
+CO2 emissions North Sea,Natural capital,Climate,GHG emissions,EVMRA
+Land intake North sea,Natural capital,Land and ecosystems,Footprint,EVMRA
+Satisfaction life,Quality of life,Subjective well being,Life satisfaction,Regionale Monitor Brede Welvaart
+Well-being Index,Quality of life,Subjective well being,Life satisfaction,Regionale Monitor Brede Welvaart
+Control own life,Quality of life,Subjective well being,Life satisfaction,Regionale Monitor Brede Welvaart
+Disposable income,Quality of life,Consumption and income,Distribution-Income- Total,Regionale Monitor Brede Welvaart
+Individual consumption,Quality of life,Consumption and income,Consumption,Regionale Monitor Brede Welvaart
+Healthy life exp. men,Quality of life,Health,Life expectancy,Regionale Monitor Brede Welvaart
+Healthy life exp.women,Quality of life,Health,Life expectancy,Regionale Monitor Brede Welvaart
+overweight,Quality of life,Nutrition,Obesity,Regionale Monitor Brede Welvaart
+Long-term unemployment,Quality of life,Labour,Employment rate,Regionale Monitor Brede Welvaart
+Net employment rate,Quality of life,Labour,Employment rate,Regionale Monitor Brede Welvaart
+Highly educated,Quality of life,Education,Educational attainment,Regionale Monitor Brede Welvaart
+Satisfaction leisure,Quality of life,Leisure,Time use,Regionale Monitor Brede Welvaart
+Loss time traffic jams,Quality of life,Mobility,Transport,Regionale Monitor Brede Welvaart
+Job satisfaction,Quality of life,Labour,Subjective,Regionale Monitor Brede Welvaart
+Quality housing,Quality of life,Housing,Quality of housing,Regionale Monitor Brede Welvaart
+Satisfaction home,Quality of life,Housing,Quality of housing,Regionale Monitor Brede Welvaart
+Contact close people,Social capital,Trust,Family/Friends,Regionale Monitor Brede Welvaart
+Participation-accountability,Social capital,Institutions,Trust in institutions,Regionale Monitor Brede Welvaart
+Trust institutions,Social capital,Trust,Generalised trust,Regionale Monitor Brede Welvaart
+Trust people,Social capital,Trust,Family/Friends,Regionale Monitor Brede Welvaart
+Development norms-values,Social capital,Institutions,Global social capital,Regionale Monitor Brede Welvaart
+Volunteer work,Social capital,Trust,Voluntary work,Regionale Monitor Brede Welvaart
+Feel unsafe neigh.,Quality of life,Physical safety,Crime,Regionale Monitor Brede Welvaart
+Crime Victimhood,Quality of life,Physical safety,Crime,Regionale Monitor Brede Welvaart
+Managed nature,Natural capital,Land and ecosystems,Species/Ecosystems,Regionale Monitor Brede Welvaart
+Quality bathing inland water ,Natural capital,Water,Water quality,Regionale Monitor Brede Welvaart
+Fauna freshwater,Natural capital,Land and ecosystems,Species/Ecosystems,Regionale Monitor Brede Welvaart
+Nitrogen deposition,Natural capital,Land and ecosystems,Soil quality,Regionale Monitor Brede Welvaart
+Exposure particulate matter ,Natural capital,Air quality,Particulate matter concentration,Regionale Monitor Brede Welvaart
+Env. problems,Natural capital,Climate,GHG emissions,Regionale Monitor Brede Welvaart
+Physical Cap. Inventory,Economic capital,Physical Capital,Capital stock,Regionale Monitor Brede Welvaart
+Knowledge Cap.Inventory,Economic capital,Knowledge Capital,Stock of knowledge capital,Regionale Monitor Brede Welvaart
+Debt per household,Economic capital,Financial capital,Net assets/liabilities,Regionale Monitor Brede Welvaart
+Household wealth,Economic capital,Consumption and income,Distribution-Income- Total,Regionale Monitor Brede Welvaart
+Installed renewable electricity,Economic capital,Energy resources,Renewable energy,Regionale Monitor Brede Welvaart
+Green-blue space,Natural capital,Land and ecosystems,Species/Ecosystems,Regionale Monitor Brede Welvaart
+Phosphorus surplus,Natural capital,Land and ecosystems,Soil quality,Regionale Monitor Brede Welvaart
+Nitrogen surplus,Natural capital,Land and ecosystems,Soil quality,Regionale Monitor Brede Welvaart
+Fauna land,Natural capital,Land and ecosystems,Species/Ecosystems,Regionale Monitor Brede Welvaart
+Good chemical quality surface water,Natural capital,Water,Water quality,Regionale Monitor Brede Welvaart
+Groundwater extraction,Natural capital,Water,Abstraction,Regionale Monitor Brede Welvaart
+Cumulative CO2 emissions,Natural capital,Climate,Historical CO2- emissions,Regionale Monitor Brede Welvaart
+Worked hours,Human capital,Labour,Hours worked,Regionale Monitor Brede Welvaart
+Feel discrimination,Social capital,Trust,Bridging social capital,Regionale Monitor Brede Welvaart
+Imports goods,Economic capital,Non-energy resources,Imports,Regionale Monitor Brede Welvaart
+Import goods-Europe,Economic capital,Non-energy resources,Imports,Regionale Monitor Brede Welvaart
+Imports goods-Africa,Economic capital,Non-energy resources,Imports,Regionale Monitor Brede Welvaart
+Imports goods-America,Economic capital,Non-energy resources,Imports,Regionale Monitor Brede Welvaart
+Imports goods-Asia,Economic capital,Non-energy resources,Imports,Regionale Monitor Brede Welvaart
+Imports goods-Oceania,Economic capital,Non-energy resources,Imports,Regionale Monitor Brede Welvaart
+Imports-LDC,Economic capital,Non-energy resources,Imports,Regionale Monitor Brede Welvaart
+development aid,Economic capital,Consumption and income,Official Development Assistance,Regionale Monitor Brede Welvaart
+Transfers,Economic capital,Financial capital,Net assets/liabilities,Regionale Monitor Brede Welvaart
+Import fossil energy,Natural capital,Energy resources,Energy dependency,Regionale Monitor Brede Welvaart
+Import fossil energy -LDC,Natural capital,Energy resources,Energy dependency,Regionale Monitor Brede Welvaart
+Import metals,Natural capital,Non-energy resources,Imports,Regionale Monitor Brede Welvaart
+Import metals-LDC,Natural capital,Non-energy resources,Imports,Regionale Monitor Brede Welvaart
+Imports non-metallic minerals,Natural capital,Non-energy resources,Imports,Regionale Monitor Brede Welvaart
+Imports non-metallic minerals-LDC,Natural capital,Non-energy resources,Imports,Regionale Monitor Brede Welvaart
+Import biomass,Natural capital,Energy resources,Imports,Regionale Monitor Brede Welvaart
+Imports biomass-LDC,Natural capital,Energy resources,Imports,Regionale Monitor Brede Welvaart
+Land footprint,Natural capital,Land and ecosystems,Footprint,Regionale Monitor Brede Welvaart
+Commodity footprint,Natural capital,Climate,Footprint,Regionale Monitor Brede Welvaart
+Greenhouse gas footprint,Natural capital,Climate,GHG emissions,Regionale Monitor Brede Welvaart
+Savings banks NL,Quality of life,Consumption and income,Distribution-Income- Total,Regionale Monitor Brede Welvaart
+Experienced health,Quality of life,Health,Healthy life expectancy,Regionale Monitor Brede Welvaart
+Low income-little wealth,Quality of life,Consumption and income,Distribution-Income- Total,Regionale Monitor Brede Welvaart
+Low-educated,Quality of life,Education,Educational attainment,Regionale Monitor Brede Welvaart
+Unemployment,Quality of life,Labour,Employment rate,Regionale Monitor Brede Welvaart
+Poverty risk self-employed,Quality of life,Labour,Employment rate,Regionale Monitor Brede Welvaart
+Severe limitations health ,Quality of life,Health,Healthy life expectancy,Regionale Monitor Brede Welvaart
+Renewable energy,Natural capital,Energy resources,Renewable energy,Regionale Monitor Brede Welvaart
+labor force,Quality of life,Labour,Distribution-Labour-,Regionale Monitor Brede Welvaart
+Dependence energy input,Economic capital,Energy resources,Energy dependency,Regionale Monitor Brede Welvaart
+Economic dependence exports,Economic capital,Energy resources,Energy dependency,Regionale Monitor Brede Welvaart
+Government debt,Economic capital,Financial capital,Government debt,Regionale Monitor Brede Welvaart
+Governance effective,Social capital,Institutions,Global social capital,Regionale Monitor Brede Welvaart
+Trust rule law,Social capital,Institutions,Trust in institutions,Regionale Monitor Brede Welvaart
+CO2 emissions,Natural capital,Climate,GHG emissions,Klimaatadaptie Monitor
+Gas free-homes,Natural capital,Energy resources,Renewable energy,Klimaatadaptie Monitor
+Gas free-Kickoff,Natural capital,Energy resources,Renewable energy,Klimaatadaptie Monitor
+Gas free-investment,Natural capital,Energy resources,Renewable energy,Klimaatadaptie Monitor
+Reduction CO2-House Association,Natural capital,Climate,GHG emissions,Klimaatadaptie Monitor
+VvE supported,Quality of life,Housing,Investments in housing,Klimaatadaptie Monitor
+VvE homes,Quality of life,Housing,Investments in housing,Klimaatadaptie Monitor
+Corporate market-gen.,Economic capital,Physical Capital,Capital stock,Klimaatadaptie Monitor
+Corporate market-energy,Economic capital,Physical Capital,Capital stock,Klimaatadaptie Monitor
+Social buildings,Economic capital,Physical Capital,Capital stock,Klimaatadaptie Monitor
+New Construction-score,Economic capital,Energy resources,Intensity/Productivity,Klimaatadaptie Monitor
+New construction-Tender,Economic capital,Physical Capital,Capital stock,Klimaatadaptie Monitor
+Electric driving,Quality of life,Mobility,Transport,Klimaatadaptie Monitor
+Charging points,Economic capital,Physical Capital,Capital stock,Klimaatadaptie Monitor
+CO2 emissions - Mobility,Natural capital,Climate,GHG emissions,Klimaatadaptie Monitor
+Shared cars NL,Quality of life,Mobility,Transport,Klimaatadaptie Monitor
+Solar energy gen.,Economic capital,Energy resources,Renewable energy,Klimaatadaptie Monitor
+Wind energy gen.,Economic capital,Energy resources,Renewable energy,Klimaatadaptie Monitor
+CO2 emissions - Electricity,Natural capital,Climate,GHG emissions,Klimaatadaptie Monitor
+Port revenue -Non Fossil,Economic capital,Financial capital,Net assets/liabilities,Klimaatadaptie Monitor
+Port Storage Capacity,Economic capital,Physical Capital,Capital stock,Klimaatadaptie Monitor
+CO2 emissions - Port,Natural capital,Climate,GHG emissions,Klimaatadaptie Monitor
+Attitude Amsterdammers,Economic capital,Energy resources,Renewable energy,Klimaatadaptie Monitor
+Energy poverty,Quality of life,Consumption and income,Distribution-Income- Total,Klimaatadaptie Monitor
+Energy consultations,Economic capital,Energy resources,Renewable energy,Klimaatadaptie Monitor
+Sustainable jobs,Quality of life,Labour,Distribution-Labour-,Klimaatadaptie Monitor
+Medium voltage areas,Economic capital,Physical Capital,Capital stock,Klimaatadaptie Monitor
+Electricity network,Economic capital,Physical Capital,Capital stock,Klimaatadaptie Monitor

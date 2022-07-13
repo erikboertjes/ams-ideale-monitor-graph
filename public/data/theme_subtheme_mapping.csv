@@ -1,0 +1,106 @@
+theme,subtheme
+Subjective well-being,Life satisfaction
+Consumption and income,Consumption
+Consumption and income,Distribution-Income- Total
+Consumption and income,Distribution-Income- Gender
+Consumption and income,Gross Domestic Product
+Consumption and income,Productivity
+Consumption and income,Official Development Assistance
+Consumption and income,Imports from developing countries
+Nutrition,Obesity
+Nutrition,Nutrition status
+Health,Life expectancy
+Health,Healthy life expectancy
+Health,Mental health
+Health,Health expenditures
+Health,Smoking
+Health,Distribution-Health
+Labour,Employment rate
+Labour,Hours worked
+Labour,Retirement
+Labour,Distribution-Labour- Gender
+Labour,Distribution-Labour-
+Labour,Migration
+Education,Educational attainment
+Education,Education expenditures
+Education,Basic competencies
+Education,Participation in education
+Education,Lifelong learning
+Education,Distribution-Education
+Housing,Housing stock
+Housing,Investments in housing
+Housing,Quality of housing
+Housing,Housing affordability
+Leisure,Time use
+Leisure,Cultural
+Physical safety,Crime
+Physical safety,Safety expenditures
+Mobility,Transport
+Water,Resources
+Water,Abstraction
+Water,Water quality
+Water,Emissions to water
+Water,Footprint
+Air quality,Particulate matter concentration
+Air quality,Emissions of particulate matter
+Air quality,Ozone concentration
+Air quality,Ozone precursors
+Air quality,Acidifying emissions
+Land and Ecosystems,Land
+Land and Ecosystems,Protected areas
+Land and Ecosystems,Soil quality
+Land and Ecosystems,Emissions to soil
+Land and Ecosystems,Species/Ecosystems
+Land and Ecosystems,Threatened species
+Land and Ecosystems,Footprint
+Trust,Generalised trust
+Trust,Bridging social capital
+Trust,Family/Friends
+Trust,Voluntary work
+Institutions,Voter turnout
+Institutions,Trust in institutions
+Institutions,Distribution-Institutions-Gender
+Institutions,Global social capital
+Physical Capital,Capital stock
+Physical Capital,Investment
+Physical Capital,Exports
+Knowledge Capital,Stock of knowledge capital
+Knowledge Capital,R&D expenditures
+Knowledge Capital,Knowledge spillovers
+Knowledge Capital,Exports
+Financial capital,Net assets/liabilities
+Financial capital,Government debt
+Financial capital,Deficit/Surplus
+Financial capital,Pensions
+Financial capital,Foreign direct investment
+Monetary aggregates,Economic capital
+Monetary aggregates,Natural capital
+Monetary aggregates,Human capital
+Non-energy resources,Intensity/Productivity
+Non-energy resources,Imports
+Non-energy resources,Resources
+Non-energy resources,Consumption
+Non-energy resources,Waste
+Non-energy resources,Recycling
+Climate,State of the climate
+Climate,Historical CO2- emissions
+Climate,GHG emissions
+Climate,GHG intensity
+Climate,Footprint
+Climate,State of the ozone layer
+Climate,Ozone depleting substances
+Energy resources,Resources
+Energy resources,Consumption
+Energy resources,Intensity/Productivity
+Energy resources,Renewable energy
+Energy resources,Imports
+Energy resources,Energy dependency
+Population,People
+Population,Property
+Population,Equipment
+Population,Other asssets
+Population,Plant
+Population,Fungi
+Population,Animal (no-human)
+Population,Protista
+Population,Monera
