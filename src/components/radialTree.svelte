@@ -140,7 +140,6 @@
     </select>
   </div>
   <div class="graph-container" bind:this={graphContainer}>
-    <div>{ selectedMonitorName }</div>
     <svg {width} {height} bind:this={svg}>
       <g id="zoom-and-pan-area" bind:this={graph}>
         <g transform="translate({width/2},{height/2})">
